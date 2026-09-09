@@ -1,11 +1,15 @@
 ### Início
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4fc49d07-cd03-42b0-a85b-c3d0f026b6dc" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7d2c79c9-8cf9-42e4-a514-bc6f1faf1567" />
+
 
 ### Informática
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/be738975-0265-4cf4-b311-790082a2e894" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f87b6b61-29e8-4da5-8bed-a52353015e68" />
+
 
 ### Alimentos
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0781826c-1167-4ace-8767-1075665e5aec" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c6eaf008-8a01-4005-90b6-8be4a687aa79" />
+
 
 ### Apicultura
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/20890b92-6e09-492b-82f8-8ee04f075d71" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0f0eaeb4-4910-42ba-bd9c-d9f8eb57f83c" />
+
